@@ -37,32 +37,11 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Imagenes Demo 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<img width="1416" alt="Captura de Pantalla 2020-03-21 a la(s) 20 17 45" src="https://user-images.githubusercontent.com/50145471/77238727-aa5fa600-6bb1-11ea-8020-0daeb5663208.png">
+<img width="1422" alt="Captura de Pantalla 2020-03-21 a la(s) 20 21 21" src="https://user-images.githubusercontent.com/50145471/77238728-adf32d00-6bb1-11ea-8d5c-8d31a6f8128d.png">
+<img width="1426" alt="Captura de Pantalla 2020-03-21 a la(s) 20 00 54" src="https://user-images.githubusercontent.com/50145471/77238730-b186b400-6bb1-11ea-972d-4ff7e974d50f.png">
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
