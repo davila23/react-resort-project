@@ -7,7 +7,7 @@
 <img width="1426" alt="Captura de Pantalla 2020-03-21 a la(s) 20 00 54" src="https://user-images.githubusercontent.com/50145471/77238730-b186b400-6bb1-11ea-972d-4ff7e974d50f.png">
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
