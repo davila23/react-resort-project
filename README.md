@@ -2,6 +2,8 @@
 
 ### > [Link to online production build](https://react-resort-project.herokuapp.com/) <
 
+** Wait for Heroku deploy the project. if it gives an error when finishing, refresh the page.
+
 
 ## Available Scripts
 
